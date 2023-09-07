@@ -78,3 +78,4 @@ Links
 -   Source Code: https://github.com/pallets/flask/
 -   Issue Tracker: https://github.com/pallets/flask/issues/
 -   Chat: https://discord.gg/pallets
+
